@@ -55,3 +55,23 @@
   background-color: grey;
   padding: 10px 0;
 }
+
+.input-fields input {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  background: blue;
+  border-radius: 25%;
+  border: none;
+  width: 100px;
+  margin: 2px 5px;
+}
+.input-fields button {
+  color: blue;
+  height: 30px;
+  border-radius: 15%;
+}
+
+.video {
+  margin: auto;
+}
